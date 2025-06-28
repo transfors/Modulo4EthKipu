@@ -1,7 +1,7 @@
 {
   "name": "modulo4ethkipu",
   "version": "1.0.0",
-  "description": "Esto es un repositorio del modulo 4 de ethKipu",
+  "description": "Esto es un repositorio del modulo 4 de eth Kipu",
   "main": "index.js",
   "type": "module",
   "scripts": {
